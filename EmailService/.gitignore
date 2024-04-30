@@ -1,0 +1,79 @@
+# Arquivos temporários gerados pela compilação
+bin/
+obj/
+
+# Arquivos de compilação gerados
+*.exe
+*.pdb
+*.dll
+*.dll.mdb
+*.xml
+*.json
+
+# Pasta de pacotes NuGet
+packages/
+
+# Arquivos de usuário do Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de cache de resolução de build
+[Tt]est[Rr]esult*
+
+# Arquivos de análise e de relatório
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de estilo de vida e de análise
+*.sln.docstates
+.vs/
+
+# Arquivos de saída do Visual Studio
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Diretório de Ferramentas de Publicação do ClickOnce
+publish/
+
+# Arquivos de saída de funcionalidades do Visual Studio Code
+.vscode/
+
+# Cache e arquivos temporários do ReSharper
+_ReSharper*/
+*.resharper*
+*.ReSharper*/
+
+# SharpDevelop
+[Aa]ppo/
+[Oo]bj/
+[Rr]elease/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code - não ignore .vscode quando a pasta estiver na raiz do seu projeto ou em outro local em que armazene configurações do seu editor particular
+!.vscode/
+
+# Arquivo de configuração JSON
+config.json
